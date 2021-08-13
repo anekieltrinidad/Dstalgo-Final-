@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DSTALGO Project/1.0.0": {
+        "runtime": {
+          "DSTALGO Project.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DSTALGO Project/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

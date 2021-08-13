@@ -1,0 +1,52 @@
+C:\Users\LENOVO\source\repos\DSTALGO Project\bin\Debug\netcoreapp3.1\DSTALGO Project.exe
+C:\Users\LENOVO\source\repos\DSTALGO Project\bin\Debug\netcoreapp3.1\DSTALGO Project.deps.json
+C:\Users\LENOVO\source\repos\DSTALGO Project\bin\Debug\netcoreapp3.1\DSTALGO Project.runtimeconfig.json
+C:\Users\LENOVO\source\repos\DSTALGO Project\bin\Debug\netcoreapp3.1\DSTALGO Project.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\DSTALGO Project\bin\Debug\netcoreapp3.1\DSTALGO Project.dll
+C:\Users\LENOVO\source\repos\DSTALGO Project\bin\Debug\netcoreapp3.1\DSTALGO Project.pdb
+C:\Users\LENOVO\source\repos\DSTALGO Project\obj\Debug\netcoreapp3.1\DSTALGO Project.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\DSTALGO Project\obj\Debug\netcoreapp3.1\DSTALGO Project.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\DSTALGO Project\obj\Debug\netcoreapp3.1\DSTALGO Project.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\DSTALGO Project\obj\Debug\netcoreapp3.1\DSTALGO Project.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\DSTALGO Project\obj\Debug\netcoreapp3.1\DSTALGO Project.dll
+C:\Users\LENOVO\source\repos\DSTALGO Project\obj\Debug\netcoreapp3.1\DSTALGO Project.pdb
+C:\Users\LENOVO\source\repos\DSTALGO Project\obj\Debug\netcoreapp3.1\DSTALGO Project.genruntimeconfig.cache
+C:\Users\Noah Uy\Desktop\DSTALGO\Project\DSTALGO Project\bin\Debug\netcoreapp3.1\DSTALGO Project.exe
+C:\Users\Noah Uy\Desktop\DSTALGO\Project\DSTALGO Project\bin\Debug\netcoreapp3.1\DSTALGO Project.deps.json
+C:\Users\Noah Uy\Desktop\DSTALGO\Project\DSTALGO Project\bin\Debug\netcoreapp3.1\DSTALGO Project.runtimeconfig.json
+C:\Users\Noah Uy\Desktop\DSTALGO\Project\DSTALGO Project\bin\Debug\netcoreapp3.1\DSTALGO Project.runtimeconfig.dev.json
+C:\Users\Noah Uy\Desktop\DSTALGO\Project\DSTALGO Project\bin\Debug\netcoreapp3.1\DSTALGO Project.dll
+C:\Users\Noah Uy\Desktop\DSTALGO\Project\DSTALGO Project\bin\Debug\netcoreapp3.1\DSTALGO Project.pdb
+C:\Users\Noah Uy\Desktop\DSTALGO\Project\DSTALGO Project\obj\Debug\netcoreapp3.1\DSTALGO Project.csproj.AssemblyReference.cache
+C:\Users\Noah Uy\Desktop\DSTALGO\Project\DSTALGO Project\obj\Debug\netcoreapp3.1\DSTALGO Project.AssemblyInfoInputs.cache
+C:\Users\Noah Uy\Desktop\DSTALGO\Project\DSTALGO Project\obj\Debug\netcoreapp3.1\DSTALGO Project.AssemblyInfo.cs
+C:\Users\Noah Uy\Desktop\DSTALGO\Project\DSTALGO Project\obj\Debug\netcoreapp3.1\DSTALGO Project.csproj.CoreCompileInputs.cache
+C:\Users\Noah Uy\Desktop\DSTALGO\Project\DSTALGO Project\obj\Debug\netcoreapp3.1\DSTALGO Project.dll
+C:\Users\Noah Uy\Desktop\DSTALGO\Project\DSTALGO Project\obj\Debug\netcoreapp3.1\DSTALGO Project.pdb
+C:\Users\Noah Uy\Desktop\DSTALGO\Project\DSTALGO Project\obj\Debug\netcoreapp3.1\DSTALGO Project.genruntimeconfig.cache
+C:\Users\AJLUISA\source\repos\DSTALGO Project (Final)\bin\Debug\netcoreapp3.1\DSTALGO Project.exe
+C:\Users\AJLUISA\source\repos\DSTALGO Project (Final)\bin\Debug\netcoreapp3.1\DSTALGO Project.deps.json
+C:\Users\AJLUISA\source\repos\DSTALGO Project (Final)\bin\Debug\netcoreapp3.1\DSTALGO Project.runtimeconfig.json
+C:\Users\AJLUISA\source\repos\DSTALGO Project (Final)\bin\Debug\netcoreapp3.1\DSTALGO Project.runtimeconfig.dev.json
+C:\Users\AJLUISA\source\repos\DSTALGO Project (Final)\bin\Debug\netcoreapp3.1\DSTALGO Project.dll
+C:\Users\AJLUISA\source\repos\DSTALGO Project (Final)\bin\Debug\netcoreapp3.1\DSTALGO Project.pdb
+C:\Users\AJLUISA\source\repos\DSTALGO Project (Final)\obj\Debug\netcoreapp3.1\DSTALGO Project.csproj.AssemblyReference.cache
+C:\Users\AJLUISA\source\repos\DSTALGO Project (Final)\obj\Debug\netcoreapp3.1\DSTALGO Project.AssemblyInfoInputs.cache
+C:\Users\AJLUISA\source\repos\DSTALGO Project (Final)\obj\Debug\netcoreapp3.1\DSTALGO Project.AssemblyInfo.cs
+C:\Users\AJLUISA\source\repos\DSTALGO Project (Final)\obj\Debug\netcoreapp3.1\DSTALGO Project.csproj.CoreCompileInputs.cache
+C:\Users\AJLUISA\source\repos\DSTALGO Project (Final)\obj\Debug\netcoreapp3.1\DSTALGO Project.dll
+C:\Users\AJLUISA\source\repos\DSTALGO Project (Final)\obj\Debug\netcoreapp3.1\DSTALGO Project.pdb
+C:\Users\AJLUISA\source\repos\DSTALGO Project (Final)\obj\Debug\netcoreapp3.1\DSTALGO Project.genruntimeconfig.cache
+C:\Users\AJLUISA\OneDrive\Documents\DSTALGO Project (Final)\bin\Debug\netcoreapp3.1\DSTALGO Project.exe
+C:\Users\AJLUISA\OneDrive\Documents\DSTALGO Project (Final)\bin\Debug\netcoreapp3.1\DSTALGO Project.deps.json
+C:\Users\AJLUISA\OneDrive\Documents\DSTALGO Project (Final)\bin\Debug\netcoreapp3.1\DSTALGO Project.runtimeconfig.json
+C:\Users\AJLUISA\OneDrive\Documents\DSTALGO Project (Final)\bin\Debug\netcoreapp3.1\DSTALGO Project.runtimeconfig.dev.json
+C:\Users\AJLUISA\OneDrive\Documents\DSTALGO Project (Final)\bin\Debug\netcoreapp3.1\DSTALGO Project.dll
+C:\Users\AJLUISA\OneDrive\Documents\DSTALGO Project (Final)\bin\Debug\netcoreapp3.1\DSTALGO Project.pdb
+C:\Users\AJLUISA\OneDrive\Documents\DSTALGO Project (Final)\obj\Debug\netcoreapp3.1\DSTALGO Project.csproj.AssemblyReference.cache
+C:\Users\AJLUISA\OneDrive\Documents\DSTALGO Project (Final)\obj\Debug\netcoreapp3.1\DSTALGO Project.AssemblyInfoInputs.cache
+C:\Users\AJLUISA\OneDrive\Documents\DSTALGO Project (Final)\obj\Debug\netcoreapp3.1\DSTALGO Project.AssemblyInfo.cs
+C:\Users\AJLUISA\OneDrive\Documents\DSTALGO Project (Final)\obj\Debug\netcoreapp3.1\DSTALGO Project.csproj.CoreCompileInputs.cache
+C:\Users\AJLUISA\OneDrive\Documents\DSTALGO Project (Final)\obj\Debug\netcoreapp3.1\DSTALGO Project.dll
+C:\Users\AJLUISA\OneDrive\Documents\DSTALGO Project (Final)\obj\Debug\netcoreapp3.1\DSTALGO Project.pdb
+C:\Users\AJLUISA\OneDrive\Documents\DSTALGO Project (Final)\obj\Debug\netcoreapp3.1\DSTALGO Project.genruntimeconfig.cache
